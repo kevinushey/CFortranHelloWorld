@@ -1,0 +1,2 @@
+export(hello_fortran)
+useDynLib(CFortranHelloWorld)

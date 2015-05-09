@@ -1,0 +1,11 @@
+Package: CFortranHelloWorld
+Type: Package
+Title: Example of Calling C from Fortran
+Version: 0.1
+Date: 2015-05-09
+Author: Kevin Ushey
+Maintainer: Kevin Ushey <kevinushey@gmail.com>
+Description: Illustrates how one could call a Fortran subroutine from C,
+    using the .Call interface.
+License: GPL-2
+LazyData: TRUE
