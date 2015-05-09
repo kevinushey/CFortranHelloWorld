@@ -2,3 +2,5 @@
 .Rhistory
 src-i386
 src-x64
+src/*.o
+src/*.dll
